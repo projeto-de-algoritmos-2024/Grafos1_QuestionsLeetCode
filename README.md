@@ -1,30 +1,16 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Questions LeetCode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 1<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/098683  |  Breno Yuri Barbosa Gomes |
+| 21/063176  |  Joyce Dionizio de Mesquita |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Esse projeto tem o objetivo de realizar problemas de média e alta complexidade no juíz LeetCode. Os exercícios serão resolvidos com base no conteúdo do conteúdo Grafos 1.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
