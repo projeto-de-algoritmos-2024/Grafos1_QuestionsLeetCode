@@ -45,10 +45,10 @@ Explicação: Podemos particionar os nós em dois conjuntos: {0, 2} e {1, 3}.
 
 
 ## Screenshots da Solução
-![785](\solucao785.jpeg)
+![785](solucao785.jpeg)
 Solução da questão 785
 
-![785_case2](\case2_785.jpeg)
+![785_case2](case2_785.jpeg)
 Case 2
 
 ### [Código da Solução](codigo_785.py)
