@@ -20,11 +20,13 @@ Os exercícios abordados são os seguintes
 | 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | Médio |
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![785](.\questao_785\solucao785.jpeg)
+Solução da questão 785
 
-## Instalação 
+![924](questao_924\solução924.jpeg)
+Solução da questão 924
+
+![2608](questao_2608\submission_2608.png)
+Solução da questão 2608
+
 **Linguagem**: Python<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-
-
