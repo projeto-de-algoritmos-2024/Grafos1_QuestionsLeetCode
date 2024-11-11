@@ -20,14 +20,4 @@ Os exercícios abordados são os seguintes
 | 785                | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)               | Médio       |   [Nossa resolução](questao_785/Contexto_Is_graph_Bipartite.md)     |
 
 
-## Screenshots
-![785](.\questao_785\solucao785.jpeg)
-Solução da questão 785
-
-![924](questao_924\solução924.jpeg)
-Solução da questão 924
-
-![2608](questao_2608\submission_2608.png)
-Solução da questão 2608
-
 **Linguagem**: Python<br>
