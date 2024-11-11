@@ -13,11 +13,12 @@
 Esse projeto tem o objetivo de realizar problemas de média e alta complexidade no juíz LeetCode. Os exercícios serão resolvidos com base no conteúdo do conteúdo Grafos 1.
 
 Os exercícios abordados são os seguintes
-| Código do Problema | Nome do Problema | Dificuldade |
-| ------------------ | ---------------- | ----------- |
-| 2608 | [Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/) | Difícil |
-| 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/description/) | Difícil |
-| 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | Médio |
+| Código do Problema | Nome do Problema                                                                                   | Dificuldade | Solução |
+| ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------- |
+| 2608               | [Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/)  | Difícil     |    [Nossa resolução](questao_2608/Contexto_ShortestCycleinaGraph.md)     |
+| 924                | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/description/)      | Difícil     |     [Nossa resolução](questao_924/Contexto_MinimizeMalwareSpread.md)      |
+| 785                | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)               | Médio       |   [Nossa resolução](questao_785/Contexto_Is_graph_Bipartite.md)     |
+
 
 ## Screenshots
 ![785](.\questao_785\solucao785.jpeg)
